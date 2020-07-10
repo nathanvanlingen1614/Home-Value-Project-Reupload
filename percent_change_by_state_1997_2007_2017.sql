@@ -46,7 +46,7 @@ ORDER BY total_percent_change DESC;
 SELECT *
 FROM percent_change_by_state_1997_to_2017
 
--- We can see from 1997 to 2007, housing across the US increased greatly, 44 states had at least a 50% increase, and over 100% in 25 states.
+-- We can see from 1997 to 2007, housing cost across the US increased greatly, 44 states had at least a 50% increase, and over 100% in 25 states.
 -- From 2007 to 2017, we can see the housing  hardly increasead or possibly even decreased in many states. The highest change in home value was South Dakota, with a 29% increase in home values.
 -- While the lowest was Delaware with a a 18% decrease in home value.  This decrease in housing cost may have been caused by the Great Recession around 2007 to 2009.
 -- Based on data from 1997-2017, the best states to invest in would be California, South Dakota, Hawaii, New York, and Massachusetts.
